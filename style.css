@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+}
+span{
+    padding-top : 10px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#score{
+    font-size: 35px;
+    margin-left: 20px;
+}
+#time{
+    font-size: 35px;
+    margin-left: 20px;
+    float:right;
+}
